@@ -113,8 +113,8 @@ Any static host works, since this builds to a plain `dist/` folder:
 
 ```bash
 git add -A
-git commit -m "Initial independent Shaaq Trading website"
+git commit -m "Initial Shaaq Trading website"
 git branch -M main
-git remote add origin <your-empty-github-repo-url>
+git remote add origin https://github.com/your-username/shaaq-trading-website.git
 git push -u origin main
 ```
