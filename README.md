@@ -1,4 +1,4 @@
-# Shaaq Trading Limited — website
+ # Shaaq Trading Limited — website
 
 Custom garment specification site for Shaaq Trading Limited: build a shirt,
 t-shirt, trousers or tuxedo detail-by-detail, preview your own logo on the
